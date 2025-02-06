@@ -1,7 +1,5 @@
 # Embedded System: Google Sheet LED Detection & ON Time Calculation
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 A project that logs LED statuses (ON/OFF) to Google Sheets using an ESP32 and calculates the total ON time within a user-specified range via a web interface.
 
 ## 📝 Overview
@@ -25,7 +23,7 @@ This project integrates an ESP32 microcontroller with Google Sheets to log the s
 | LEDs (Any Color)    | 4        |
 | 220Ω Resistors      | 4        |
 | Breadboard          | 1        |
-| Jumper Wires        | 10+      |
+| Jumper Wires        | 4        |
 | Micro-USB Cable     | 1        |
 
 ## 💻 Software Requirements
@@ -56,8 +54,6 @@ This project integrates an ESP32 microcontroller with Google Sheets to log the s
    - Connect LEDs to ESP32 GPIO pins **5, 18, 19, 21** with 220Ω resistors.
    - Ensure all cathodes are grounded.
    
-   ![Circuit Diagram](media/image8.png)
-
 ### 3. Software Configuration
 1. **ESP32 Code**:
    - Open [EmbeddedProject.ino](EmbeddedProject.ino) in Arduino IDE.
@@ -109,7 +105,7 @@ This project integrates an ESP32 microcontroller with Google Sheets to log the s
 ---
 
 ## 📜 License
-This project is open-source and available under the MIT License. See [LICENSE](LICENSE) for details.
+This project is open-source and available under the MIT License. 
 
 ---
 
