@@ -78,8 +78,6 @@ This project integrates an ESP32 microcontroller with Google Sheets to log the s
    - Select LED, start/end date, and time.
    - Submit to view total ON duration and a Google Sheets query link.
 
-![Web Interface](media/image9.png)
-
 ---
 
 ## 📂 Code Structure
