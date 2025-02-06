@@ -108,14 +108,8 @@ This project integrates an ESP32 microcontroller with Google Sheets to log the s
 
 ---
 
-## 👥 Contributors
-- **Abdullah Mehtab** ([GitHub](https://github.com/abdullah-mehtab))
-- **Umm-e-Abiha** 
-
----
-
 ## 📜 License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is open-source and available under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
